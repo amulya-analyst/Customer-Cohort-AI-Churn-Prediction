@@ -28,3 +28,11 @@ model to identify at-risk customers and reduce churn.
 - cohort_analysis.ipynb — Full analysis + AI model
 - churn_predictions.csv — AI predictions for all customers
 - churn_feature_importance.png — Feature importance chart
+
+## Dashboard Preview
+
+### Cohort Analysis Dashboard
+![Page 1](dashboard_page1.png)
+
+### AI Churn Predictions Dashboard
+![Page 2](dashboard_page2.png)
